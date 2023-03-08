@@ -2,10 +2,14 @@
 
 Sou Priscila Galassini, sou Desenvolvedora Java Full Stack e trabalho com tecnologia desde 2013.
 
+### Se quiser conversar, me chame por aqui
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-g-5b295199/)](https://www.linkedin.com/in/priscila-g-5b295199/) 
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:priscilagalassini@gmail.com)](mailto:priscilagalassini@gmail.com)
 
 ![Priscila Galassini GitHub stats](https://github-readme-stats.vercel.app/api?username=devgalassini&show_icons=true&theme=dracula&count_private=true)
+
+[![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devgalassini&layout=compact&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
 
 ____
 
