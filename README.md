@@ -11,6 +11,7 @@ Sou Priscila Galassini, sou Desenvolvedora Java Full Stack e trabalho com tecnol
 
 [![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devgalassini&layout=compact&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devgalassini&layout=react&line_height=40&hide=css"/> </a>
 ____
 
 ## ⚡ Tecnologias
