@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou Priscila Galassini, sou Desenvolvedora Java Full Stack e trabalho com tecnologia desde 2013.
+Sou Priscila Galassini, sou Desenvolvedora Full Stack e trabalho com tecnologia desde 2013.
 
 
 ### Se quiser conversar, me chame por aqui
