@@ -10,6 +10,12 @@ Sou Priscila Galassini, sou Desenvolvedora Full Stack e trabalho com tecnologia 
 [![99Freelas](https://img.shields.io/badge/99Freelas-0072b1?style=for-the-badge&logo=99Freelas&logoColor=white&link=https://www.99freelas.com.br/freelancers?q=priscila%20galassini/)](https://www.99freelas.com.br/freelancers?q=priscila%20galassini/) 
 ____
 
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=devgalassini&show_icons=true&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)&nbsp;&nbsp;&nbsp;&nbsp;
+[![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devgalassini&layout=compact&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
+
+
+
 ## ⚡ Tecnologias
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
