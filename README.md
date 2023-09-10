@@ -11,9 +11,8 @@ Sou Priscila Galassini, sou Desenvolvedora Full Stack e trabalho com tecnologia 
 ____
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=devgalassini&show_icons=true&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)&nbsp;&nbsp;&nbsp;&nbsp;
-[![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devgalassini&layout=compact&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
 
+![devgalassini's Stats](https://github-readme-stats.vercel.app/api?username=devgalassini&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
 
 
 ## ⚡ Tecnologias
