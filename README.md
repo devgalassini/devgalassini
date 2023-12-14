@@ -8,6 +8,8 @@ Sou Priscila Galassini, sou Desenvolvedora Full Stack e trabalho com tecnologia 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-g-5b295199/)](https://www.linkedin.com/in/priscila-g-5b295199/) 
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:priscilagalassini@gmail.com)](mailto:priscilagalassini@gmail.com)
 [![99Freelas](https://img.shields.io/badge/99Freelas-0072b1?style=for-the-badge&logo=99Freelas&logoColor=white&link=https://www.99freelas.com.br/freelancers?q=priscila%20galassini/)](https://www.99freelas.com.br/freelancers?q=priscila%20galassini/) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me//5511963464597?text=Gostaria%20de%20com%20você)](https://wa.me//5511963464597?text=Gostaria%20de%20com%20você) 
+
 ____
 </p>
 
