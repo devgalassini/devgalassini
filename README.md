@@ -2,12 +2,12 @@
 
 Sou Priscila Galassini,
 
- Comecei na área com "Atendimento ao Cliente",em uma empresa de Telemarketing, gostei de trazer soluções tecnologicas aos clientes, não satisfeita ingressei na faculdade em 2013, comecei a cursar Ciência da Computação. Onde de verdade comecei a ter vivência com tecnologia.
- Em 2015 comecei a estágiar na área de TI, onde pude aprender a lidar com diversos clientes, trazer soluções voltadas para TI, tive a oportunidade de trabalhar em diversos setores na TI, começei como Apoio aos contratos de Periféricos e link de internet, Analista de Suporte Júnior,  Ticket Manager, Analista de suporte Pleno, Team Líder, e agora
-como Desenvolvedora Java Full Stack, atuando com vários clientes do setor Publico como: Sabesp, Prefeitura de Jundiaí, Pirelli, Prometeon e Caixa Econômica Federal. 
+ Comecei atuar área com o  "Atendimento ao Cliente", em uma empresa de Telemarketing, gostei de trazer soluções tecnologicas aos clientes, não satisfeita ingressei na faculdade em 2013, comecei a cursar Ciência da Computação. Onde de verdade comecei a ter vivência com tecnologia.
+ Em 2015 comecei a estágiar na área de TI, onde pude aprender a lidar com diversos clientes e trazer soluções voltadas para TI, tive a oportunidade de trabalhar em diversos setores na TI, começei como Apoio aos contratos de Periféricos e Link's de Internet, Analista de Suporte Júnior, Ticket Manager, Analista de Suporte Pleno, Team Líder, e agora
+como Desenvolvedora Java Full Stack, atuando com vários clientes do setor Publico e Privado como: Sabesp, Prefeitura de Jundiaí, Pirelli, Prometeon e Caixa Econômica Federal. 
  Agora não só trago soluções para os clientes como sigo corrigindo e resolvendo bugs.
 
-
+ 
    ### Se quiser conversar, me chame por aqui 👇🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-g-5b295199/)](https://www.linkedin.com/in/priscila-g-5b295199/) 
