@@ -11,12 +11,9 @@ Sou Priscila Galassini, sou Desenvolvedora Full Stack e trabalho com tecnologia 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me//5511963464597?text=Gostaria%20de%20com%20você!)](https://wa.me//5511963464597?text=Gostaria%20de%20com%20você) 
 
 ____
-</p>
 
-<div align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgalassini&hide=TeX&layout=compact" width="350"></a>
-</div>
-
+[![github stats](https://github-readme-stats.vercel.app/api?username=devgalassini&show_icons=true&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
+[![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devgalassini&layout=compact&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
 
 ## ⚡ Tecnologias
 
