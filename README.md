@@ -3,7 +3,7 @@
 Sou Priscila Galassini,
 
  Comecei na área com "Atendimento ao Cliente",em uma empresa de Telemarketing, gostei de trazer soluções tecnologicas aos clientes, não satisfeita ingressei na faculdade em 2013, comecei a cursar Ciência da Computação. Onde de verdade comecei a ter vivência com tecnologia.
- Em 2015 comecei a estágiar na área de TI, onde pude aprender a lidar com diversos clientes, trazer soluções voltadas para TI, tive a oportunidade de trabalhar em diversos setores na TI como Analista e Suporte Júnior, Pleno, Team Líder, Ticket Manager e agora
+ Em 2015 comecei a estágiar na área de TI, onde pude aprender a lidar com diversos clientes, trazer soluções voltadas para TI, tive a oportunidade de trabalhar em diversos setores na TI, começei como Apoio aos contratos de Periféricos e link de internet, Analista de Suporte Júnior,  Ticket Manager, Analista de suporte Pleno, Team Líder, e agora
 como Desenvolvedora Java Full Stack, atuando com vários clientes do setor Publico como: Sabesp, Prefeitura de Jundiaí, Pirelli, Prometeon e Caixa Econômica Federal. 
  Agora não só trago soluções para os clientes como sigo corrigindo e resolvendo bugs.
 
