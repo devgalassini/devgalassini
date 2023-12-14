@@ -1,9 +1,13 @@
-### Olá 👋
+### Olá 👋🏾
 
-Sou Priscila Galassini, sou Desenvolvedora Full Stack e trabalho com tecnologia desde 2013.
+Sou Priscila Galassini,
+
+ Comecei na área com "Atendimento ao Cliente", gostei de trazer soluções tecnologicas aos clientes, não satisfeita ingressei na faculdade em 2013, comecei a cursar Ciência da Computação. Onde de verdade comecei a ter vivencia com tecnologia.
+ Em 2015 comecei a estágiar na área de TI, onde pude aprender a lidar com diversos clientes, trazer soluções voltadas para TI, tive a oportunidade de trabalhar em diversos setores na TI como Analista e Suporte Júnior/Pleno, Team Líder, Ticket Manager e agora
+como Java Developer Full Stack, atuando com vários clientes do setor Publico como: Sabesp, Prefeitura de Jundiaí, Pirelli, Prometeon e Caixa Econômica Federal. Agora não só trago soluções para os clientes como sigo corrigindo e resolvendo bugs.
 
 
-### Se quiser conversar, me chame por aqui
+### Se quiser conversar, me chame por aqui 👇🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-g-5b295199/)](https://www.linkedin.com/in/priscila-g-5b295199/) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:priscilagalassini@gmail.com)](mailto:priscilagalassini@gmail.com)
