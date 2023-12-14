@@ -4,9 +4,8 @@ Me chamo Priscila Galassini,
 
  Atualmente sou Desenvolvedora 👩🏾‍💻;<br>
  
- Comecei atuar área com o  "Atendimento ao Cliente", em uma empresa de Telemarketing, gostei de trazer soluções tecnologicas aos clientes, não satisfeita ingressei na faculdade em 2013, comecei a cursar Ciência da Computação. Onde de verdade comecei a ter vivência com tecnologia.
- Em 2015 comecei a estágiar na área de TI, onde pude aprender a lidar com diversos clientes e trazer soluções voltadas para TI, tive a oportunidade de trabalhar em diversos setores na TI, começei como Apoio aos contratos de Periféricos e Link's de Internet, Analista de Suporte Júnior, Ticket Manager, Analista de Suporte Pleno, Team Líder, e agora
-como Desenvolvedora Java Full Stack, atuando com vários clientes do setor Publico e Privado como: Sabesp, Prefeitura de Jundiaí, Pirelli, Prometeon e Caixa Econômica Federal. 
+ <p> <p> <p> Comecei atuar área com o  "Atendimento ao Cliente", em uma empresa de Telemarketing, gostei de trazer soluções tecnologicas aos clientes, não satisfeita ingressei na faculdade em 2013, comecei a cursar Ciência da Computação. Onde de verdade comecei a ter vivência com tecnologia.<br>
+ Em 2015 comecei a estágiar na área de TI, onde pude aprender a lidar com diversos clientes e trazer soluções voltadas para TI, tive a oportunidade de trabalhar em diversos setores na TI, começei como Apoio aos contratos de Periféricos e Link's de Internet, Analista de Suporte Júnior, Ticket Manager, Analista de Suporte Pleno, Team Líder, e agora como Desenvolvedora Java Full Stack, atuando com vários clientes do setor Publico e Privado como: Sabesp, Prefeitura de Jundiaí, Pirelli, Prometeon e Caixa Econômica Federal. <br>
  Agora não só trago soluções para os clientes como sigo corrigindo e resolvendo bugs.
 
  
@@ -22,7 +21,7 @@ ____
 [![github stats](https://github-readme-stats.vercel.app/api?username=devgalassini&show_icons=true&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
 [![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devgalassini&layout=compact&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
 
- <h3 align="center">## ⚡ Tecnologias</h3>
+ <h3 align="center"> ⚡ Tecnologias</h3>
 
 <h3 align="center">Estas são algumas das tecnologias e ferramentas com as quais trabalho:</h3>
 
