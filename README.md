@@ -16,8 +16,6 @@ Me chamo Priscila Galassini,
 
 ____
 
-[![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devgalassini&layout=compact&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
-
  <h3 align="center"> ⚡ Tecnologias</h3>
 
 <h3 align="center">Estas são algumas das tecnologias e ferramentas com as quais trabalho:</h3>
