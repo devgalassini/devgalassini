@@ -2,14 +2,13 @@
 
 Me chamo Priscila Galassini,
 
- Atualmente sou Desenvolvedora 👩🏾‍💻;<br>
- 
- <p> <p> <p> Comecei atuar área com o  "Atendimento ao Cliente", em uma empresa de Telemarketing, gostei de trazer soluções tecnologicas aos clientes, não satisfeita ingressei na faculdade em 2013, comecei a cursar Ciência da Computação. Onde de verdade comecei a ter vivência com tecnologia.<br>
- Em 2015 comecei a estágiar na área de TI, onde pude aprender a lidar com diversos clientes e trazer soluções voltadas para TI, tive a oportunidade de trabalhar em diversos setores na TI, começei como Apoio aos contratos de Periféricos e Link's de Internet, Analista de Suporte Júnior, Ticket Manager, Analista de Suporte Pleno, Team Líder, e agora como Desenvolvedora Java Full Stack, atuando com vários clientes do setor Publico e Privado como: Sabesp, Prefeitura de Jundiaí, Pirelli, Prometeon e Caixa Econômica Federal. <br>
- Agora não só trago soluções para os clientes como sigo corrigindo e resolvendo bugs.
+ <p> Sou Desenvolvedora FullStack👩🏾‍💻 com uma sólida trajetória trabalhando com clientes renomados,<br/>
+ incluindo Sabesp, Prefeitura de Jundiaí, Pirelli, Prometeon e Caixa Econômica Federal. <br/>
+ Especializada em Java, abrange uma ampla gama de áreas da TI, proporcionando soluções inovadoras e eficientes. <br/>
+ Procuro de forma constante aprender e aplicar as últimas práticas de desenvolvimento para impulsionar projetos de forma bem-sucedida.
 
  
-   ### Se quiser conversar, me chame por aqui 👇🏾
+   ###   <p><p> Se quiser conversar, me chame por aqui 👇🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-g-5b295199/)](https://www.linkedin.com/in/priscila-g-5b295199/) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:priscilagalassini@gmail.com)](mailto:priscilagalassini@gmail.com)
