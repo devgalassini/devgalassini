@@ -11,13 +11,11 @@ Me chamo Priscila Galassini,
    ###   <p><p> Se quiser conversar, me chame por aqui 👇🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-g-5b295199/)](https://www.linkedin.com/in/priscila-g-5b295199/) 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:priscilagalassini@gmail.com)](mailto:priscilagalassini@gmail.com)
-[![99 Freelas](https://img.shields.io/badge/99Freelas-01A0DD?style=for-the-badge&logo=99Freelas&logoColor=white&link=https://www.99freelas.com.br/freelancers?q=priscila%20galassini/)](https://www.99freelas.com.br/freelancers?q=priscila%20galassini/) 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:priscilagalassini@gmail.com)](mailto:priscilagalassini@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me//5511963464597?text=Gostaria%20de%20falar%20com%20você!)](https://wa.me//5511963464597?text=Gostaria%20de%20falar%20com%20você!) 
 
 ____
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=devgalassini&show_icons=true&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
 [![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devgalassini&layout=compact&count_private=true&theme=radical)](https://github.com/devgalassini/devgalassini)
 
  <h3 align="center"> ⚡ Tecnologias</h3>
