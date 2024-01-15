@@ -8,7 +8,7 @@ Me chamo Priscila Galassini,
  Procuro de forma constante aprender e aplicar as últimas práticas de desenvolvimento para impulsionar projetos de forma bem-sucedida.
 
  
-   ###   <p><p> Se quiser conversar, me chame por aqui 👇🏾
+   ### Ficou interessado(a)? Me chame 👇🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-g-5b295199/)](https://www.linkedin.com/in/priscila-g-5b295199/) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:priscilagalassini@gmail.com)](mailto:priscilagalassini@gmail.com) 
