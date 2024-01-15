@@ -2,9 +2,9 @@
 
 Me chamo Priscila Galassini,
 
- <p> Sou Desenvolvedora FullStack👩🏾‍💻 com uma sólida trajetória trabalhando com clientes renomados,<br/>
+ <p> Sou Desenvolvedora Full Stack com uma sólida trajetória trabalhando com clientes renomados,<br/>
  incluindo Sabesp, Prefeitura de Jundiaí, Pirelli, Prometeon e Caixa Econômica Federal. <br/>
- Especializada em Java, abrange uma ampla gama de áreas da TI, proporcionando soluções inovadoras e eficientes. <br/>
+ Especializada em Java, e com uma abrangente gama de áreas da TI, proporcionando soluções inovadoras e eficientes. <br/>
  Procuro de forma constante aprender e aplicar as últimas práticas de desenvolvimento para impulsionar projetos de forma bem-sucedida.
 
  
