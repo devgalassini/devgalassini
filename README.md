@@ -7,7 +7,7 @@
 <p>  
 👩🏾‍💻 Experiência de mais de 11 anos na área de TI
        
-💼 Desenvolvedora de Software na [Caixa](https://www.caixa.gov.br/)
+💼 Desenvolvedora de Software na [CEF](https://www.caixa.gov.br/)
   
 🎓 Bacharela em Ciência Da Computação pela [Uninove](https://www.uninove.br/)
     
