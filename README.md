@@ -1,6 +1,4 @@
-
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F92F60&size=35&center=true&vCenter=true&width=1000&lines=Fala+Devs,+Priscila+Galassini+falando+aqui!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F92F60&size=35&center=true&vCenter=true&width=1000&lines=Fala+Devs,+Priscila+Galassini+falando+aqui!+:%29)](https://git.io/typing-svg)
 
 <hr>
 
@@ -24,9 +22,9 @@
 
 <div align="center">  
 <a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="" height="50"/</a>
+<a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="" height="50"/</a>
+<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="" height="50"/></a>
@@ -39,7 +37,7 @@
 <div align="center">  
 <a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt=""height="50"/></a>
+<a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="" height="50"/></a>
 </div>
 
@@ -84,3 +82,7 @@
 </p>
 
 <hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devgalassini&color=FF69B4&style=flat-square" alt="Profile Views">
+</p>
