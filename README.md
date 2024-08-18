@@ -9,7 +9,7 @@
   
 🎓 Bacharela em Ciência Da Computação pela [Uninove](https://www.uninove.br/)
     
-❤️‍🔥 Apaixonada por Tecnologia 
+❤️‍🔥 Entusiasta por Tecnologia 
 </p>
   
 <hr>
