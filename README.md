@@ -14,20 +14,17 @@
   
 <hr>
 
-<p align="center">Ferramentas e Tecnologias que uso no meu dia</p>
+<p  align="width="-100%" >Ferramentas e Tecnologias que uso no meu dia</p>
 
 <table><tr><td valign="top" width="33%">
 
 <h3 align="center">Frontend e Cloud</h3>
 
 <div align="center">  
-<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="" height="50"/></a>
+<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="" height="50"/></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -37,7 +34,6 @@
 <div align="center">  
 <a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="" height="50"/></a>
 </div>
 
@@ -46,13 +42,11 @@
 <h3 align="center">Database e Tools</h3>
 
 <div align="center">  
-<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="" height="50"/></a>
-<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="" height="50"/></a>
 <a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="" height="50"/></a>
+<a href=" " target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="" height="50"/></a>
+<a href=" " target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="" height="50"/></a>
+
 </div>
 
 </td></tr></table>  
